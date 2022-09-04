@@ -1,0 +1,15 @@
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\bin\Debug\net6.0\EstacionarApp.exe
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\bin\Debug\net6.0\EstacionarApp.deps.json
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\bin\Debug\net6.0\EstacionarApp.runtimeconfig.json
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\bin\Debug\net6.0\EstacionarApp.dll
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\bin\Debug\net6.0\EstacionarApp.pdb
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\obj\Debug\net6.0\EstacionarApp.csproj.AssemblyReference.cache
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\obj\Debug\net6.0\EstacionarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\obj\Debug\net6.0\EstacionarApp.AssemblyInfoInputs.cache
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\obj\Debug\net6.0\EstacionarApp.AssemblyInfo.cs
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\obj\Debug\net6.0\EstacionarApp.csproj.CoreCompileInputs.cache
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\obj\Debug\net6.0\EstacionarApp.dll
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\obj\Debug\net6.0\refint\EstacionarApp.dll
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\obj\Debug\net6.0\EstacionarApp.pdb
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\obj\Debug\net6.0\EstacionarApp.genruntimeconfig.cache
+C:\Users\kba28\OneDrive\Documentos\Workspaces\Microsoft-Workspace\Curso Dio\EstacionarApp\EstacionarApp\obj\Debug\net6.0\ref\EstacionarApp.dll
