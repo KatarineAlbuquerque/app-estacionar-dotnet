@@ -24,7 +24,7 @@ namespace EstacionarApp.Model
         public void AdicionarVeiculo()
         {            
            Console.WriteLine("Digite a placa do veículo para adicionar: ");
-           string placa = Console.ReadLine();
+           string placa = Console.ReadLine().ToUpper();
            Console.WriteLine();
 
            if(!placa.Equals(""))
@@ -41,7 +41,7 @@ namespace EstacionarApp.Model
         public void RemoverVeículo()
         {
             Console.WriteLine("Digite a placa do veículo para remover: ");
-            string placa = Console.ReadLine();
+            string placa = Console.ReadLine().ToUpper();
             Console.WriteLine();
 
             decimal valorTotal = 0;
