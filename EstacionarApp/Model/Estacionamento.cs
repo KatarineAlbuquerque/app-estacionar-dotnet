@@ -17,8 +17,8 @@ namespace EstacionarApp.Model
 
         public Estacionamento()
         {
-            this.ValorEstacionamento = 25;
-            this.ValorPorHora = 2;
+            ValorEstacionamento = 25.00M;
+            ValorPorHora = 2.50M;
         }
 
         public void AdicionarVeiculo()
